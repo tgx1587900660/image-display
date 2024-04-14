@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'moshanxin',
+  base: '/image-display/',
   description: '莫善欣的日志',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
