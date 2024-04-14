@@ -1,1 +1,5 @@
-# 测试 images
+<script setup>
+import ImagesBox from './components/images.vue'
+</script>
+
+<ImagesBox />
